@@ -3,6 +3,27 @@
 -- max_devices = 20 (matlab 20 phones mein chalegi)
 
 return {
+    ["AHMAD2DAYTRAIL"] = {
+        type = "DEMO",
+        expiry = "2026-09-11",
+        valid = true,
+        max_devices = 5,
+        SLOT = "8"
+    },
+    ["@HassanXpubg"] = {
+        type = "DEMO",
+        expiry = "2026-09-11",
+        valid = true,
+        max_devices = 5,
+        SLOT = "8"
+    },
+    ["ZOROCHEATS"] = {
+        type = "DEMO",
+        expiry = "2026-09-11",
+        valid = true,
+        max_devices = 5,
+        SLOT = "7"
+    },
     ["QUARTER"] = {
         type = "VIP",
         expiry = "2027-12-31",
@@ -17,11 +38,11 @@ return {
         max_devices = 5,
         SLOT = "2"
     },
-    ["ZenXAHMAD"] = {
+    ["VIPAHMAD"] = {
         type = "DEMO",
-        expiry = "2026-09-11",
+        expiry = "2026-11-11",
         valid = true,
-        max_devices = 50,
+        max_devices = 5,
         SLOT = "3"
     },
     ["LEGENDVIP"] = {
