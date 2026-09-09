@@ -17,7 +17,7 @@ return {
         max_devices = 5,
         SLOT = "2"
     },
-    ["@ZenXAHMAD"] = {
+    ["ZenXAHMAD"] = {
         type = "DEMO",
         expiry = "2026-09-11",
         valid = true,
