@@ -7,7 +7,7 @@ return {
         type = "DEMO",
         expiry = "2026-09-11",
         valid = true,
-        max_devices = 5,
+        max_devices = 50,
         SLOT = "8"
     },
     ["@HassanXpubg"] = {
