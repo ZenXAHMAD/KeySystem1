@@ -5,21 +5,21 @@
 return {
     ["AHMAD2DAYTRAIL"] = {
         type = "DEMO",
-        expiry = "2026-09-11",
+        expiry = "2026-09-13",
         valid = true,
         max_devices = 50,
         SLOT = "8"
     },
     ["@HassanXpubg"] = {
         type = "DEMO",
-        expiry = "2026-09-11",
+        expiry = "2026-09-15",
         valid = true,
         max_devices = 5,
         SLOT = "8"
     },
     ["ZOROCHEATS"] = {
         type = "DEMO",
-        expiry = "2026-09-11",
+        expiry = "2026-09-15",
         valid = true,
         max_devices = 5,
         SLOT = "7"
@@ -42,7 +42,7 @@ return {
         type = "DEMO",
         expiry = "2026-11-11",
         valid = true,
-        max_devices = 5,
+        max_devices = 6,
         SLOT = "3"
     },
     ["LEGENDVIP"] = {
