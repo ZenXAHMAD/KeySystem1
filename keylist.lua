@@ -5,7 +5,7 @@
 return {
     ["AHMAD5DAYTRAIL"] = {
         type = "DEMO",
-        expiry = "2026-09-13",
+        expiry = "2026-09-20",
         valid = true,
         max_devices = 50,
         SLOT = "8"
